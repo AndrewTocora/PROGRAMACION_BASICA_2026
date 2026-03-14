@@ -1,0 +1,13 @@
+#ALGORITMO
+#PEDIR POINT 1
+#PEDIR POINT 2
+#COMPARAR POINT 1 CON POINT 2
+
+#PSEUDOCODIGO
+#VARIABLE PNT 1
+#VARIABLE PNT 2
+#ESCRIBIR SI POINT 1 ES MAYOR QUE POINT 2
+
+PNT1= int(input("Ingrese primer puntaje: "))
+PNT2= int(input("Ingrese el segundo puntaje: "))
+print(PNT1 > PNT2)
